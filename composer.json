@@ -1,0 +1,12 @@
+{
+  "name": "salamium/core",
+  "authors": [
+    {
+      "name": "Milan Matějček",
+      "email": "milan.matejcek@gmail.com"
+    }
+  ],
+  "require": {
+    "nette/forms": "^2.4"
+  }
+}
